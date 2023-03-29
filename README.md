@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://i.icomoon.io/public/temp/435a684177/UntitledProject/style-svg.css">
-<script defer src="https://i.icomoon.io/public/temp/435a684177/UntitledProject/svgxuse.js"></script>
 
 <!---
 Titulo do README
@@ -51,6 +50,3 @@ Icons de interação
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-dos-anjos-neri-ab3284207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-dos-anjos-neri-ab3284207" height="30" width="40" /></a>
 <a href="https://instagram.com/gustavodosanj0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gustavodosanj0s" height="30" width="40" /></a>
-<a href="gustavodosanjosneri@gmail.com" target="blank"><p font-size="15">src""</a>
-</p>
- 
