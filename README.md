@@ -9,7 +9,7 @@ Titulo do README
 <!---
 Card de estatisticas
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavodosanjosneri&show_icons=true&locale=en&layout=compact&theme=tokyonight&custom_title=Minhas+stats+no+Github" alt="gustavodosanjosneri" height="190" width="auto"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavodosanjosneri&show_icons=true&locale=en&layout=compact&theme=tokyonight&custom_title=Linguagens+que+mais+uso" alt="gustavodosanjosneri" height="190" width="auto"/></p>
 
 <!---
 Card de linguagens
