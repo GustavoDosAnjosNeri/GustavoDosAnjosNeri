@@ -9,12 +9,12 @@ Titulo do README
 <!---
 Card de estatisticas
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavodosanjosneri&show_icons=true&locale=en&layout=compact&theme=tokyonight&custom_title=Linguagens+que+mais+uso" alt="gustavodosanjosneri" height="150" width="auto"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavodosanjosneri&show_icons=true&locale=en&layout=compact&theme=tokyonight&custom_title=Linguagens+que+mais+uso" alt="gustavodosanjosneri" height="100" width="auto"/></p>
 
 <!---
 Card de linguagens
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavodosanjosneri&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&custom_title=Minhas+stats+no+Github" alt="gustavodosanjosneri" height="150" width="auto"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavodosanjosneri&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&custom_title=Minhas+stats+no+Github" alt="gustavodosanjosneri" height="100" width="auto"
   padding="10px"/></p>
 
 <!---
